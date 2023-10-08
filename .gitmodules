@@ -1,0 +1,3 @@
+[submodule "modules/guestbook"]
+	path = modules/guestbook
+	url = git@github.com:TheNeuromonkey/guestbook.git
